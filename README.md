@@ -6,26 +6,26 @@
 - accuracy is the main issue
 
 # Take a look at the data
-ɹᵻfɹeɪn :  ɹᵻfɹeɪnd correctly predicted
+- ɹᵻfɹeɪn :  ɹᵻfɹeɪnd correctly predicted
   - refrain: refrained
-smaɪl :  smaɪld correctly predicted
+- smaɪl :  smaɪld correctly predicted
   - smile: smiled
-ʃɑp :  ʃɑpt incorrectly predicted for ʃoʊpt
+- ʃɑp :  ʃɑpt incorrectly predicted for ʃoʊpt
   - shop: shopped
   - (this is one that is incorrect due to a slight change in the vowel pronunciation)
-ɛnhæns :  ɛnhænst correctly predicted
+- ɛnhæns :  ɛnhænst correctly predicted
   - enhance: enhanced
-ɹɛkɚd :  ɹɛkɚd incorrectly predicted for ɹᵻkoɹdᵻd
+- ɹɛkɚd :  ɹɛkɚd incorrectly predicted for ɹᵻkoɹdᵻd
   - record: record
-ɪntɚvju :  ɪntɚvjud correctly predicted
+- ɪntɚvju :  ɪntɚvjud correctly predicted
   - interview: interviewed
-kaʊntɚɹækt :  kaʊntɚɹækt incorrectly predicted for kaʊntɚɹæktᵻd
+- kaʊntɚɹækt :  kaʊntɚɹækt incorrectly predicted for kaʊntɚɹæktᵻd
   - counteract: counteract
   - we see the same issue as the record conjugation
-ɐbændən :  ɐbændənd correctly predicted
+- ɐbændən :  ɐbændənd correctly predicted
   - abandon: abandoned
-ɐplaɪ :  ɐplaɪnd incorrectly predicted for ɐplaɪd
+- ɐplaɪ :  ɐplaɪnd incorrectly predicted for ɐplaɪd
   - apply: appliend
   - I think this one is silly :)
-bɑɾəl :  bɑɾəld correctly predicted
+- bɑɾəl :  bɑɾəld correctly predicted
   - barrel: barreled
